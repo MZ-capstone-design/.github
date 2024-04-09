@@ -1,5 +1,11 @@
 ## 캡스톤 디자인 프로젝트를 위한 레포입니다🧙
 
+## Member
+|이름|담당|주소|
+|:---:|:---:|:---:|
+|김민욱|백엔드 및 모델 학습|https://github.com/MinWook6457|
+|박지우|프론트엔드 및 모델 학습|https://github.com/jiwoopark727|
+
 <!--
 
 **Here are some ideas to get you started:**
