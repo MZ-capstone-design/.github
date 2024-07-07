@@ -6,6 +6,11 @@
 |김민욱|백엔드 및 모델 학습|https://github.com/MinWook6457|
 |박지우|프론트엔드 및 모델 학습|https://github.com/jiwoopark727|
 
+## STACK
+|BACK|FRONT|
+|:---:|:---:|
+|ExpressJS|React|
+
 <!--
 
 **Here are some ideas to get you started:**
